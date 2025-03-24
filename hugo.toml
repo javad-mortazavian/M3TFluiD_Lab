@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://github.com/ItisAriya/M3TFluiD_Lab/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'M3TFluiDLab'
 theme = 'PaperMod'
