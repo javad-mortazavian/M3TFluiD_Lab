@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on M3TFluiDLab</title>
-    <link>https://github.com/ItisAriya/M3TFluiD_Lab/</link>
-    <description>Recent content in Home on M3TFluiDLab</description>
+    <title>Posts on M3TFluiDLab</title>
+    <link>https://github.com/ItisAriya/M3TFluiD_Lab/posts/</link>
+    <description>Recent content in Posts on M3TFluiDLab</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Mar 2025 14:46:50 -0400</lastBuildDate>
-    <atom:link href="https://github.com/ItisAriya/M3TFluiD_Lab/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>True</title>
-      <link>https://github.com/ItisAriya/M3TFluiD_Lab/section1/section1/</link>
-      <pubDate>Mon, 24 Mar 2025 14:46:50 -0400</pubDate>
-      <guid>https://github.com/ItisAriya/M3TFluiD_Lab/section1/section1/</guid>
-      <description>&lt;h3 id=&#34;this-is-the-section-one-of-the-website&#34;&gt;This is the section one of the website.&lt;/h3&gt;&#xA;&lt;p&gt;Test content.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>True</title>
-      <link>https://github.com/ItisAriya/M3TFluiD_Lab/section2/</link>
-      <pubDate>Mon, 24 Mar 2025 14:46:50 -0400</pubDate>
-      <guid>https://github.com/ItisAriya/M3TFluiD_Lab/section2/</guid>
-      <description>&lt;h3 id=&#34;this-is-the-section-two-of-the-website&#34;&gt;This is the section two of the website.&lt;/h3&gt;&#xA;&lt;p&gt;Test content.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
+    <atom:link href="https://github.com/ItisAriya/M3TFluiD_Lab/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 3</title>
       <link>https://github.com/ItisAriya/M3TFluiD_Lab/posts/post-3/</link>
