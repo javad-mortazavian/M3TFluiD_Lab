@@ -5,7 +5,7 @@ title = 'M3TFluiDLab Team'
 +++
 
 
-# M³TFluiD Lab: Dr. Navid Goudarzi
+# M³TFluiD Lab : Dr. Navid Goudarzi
 
 ## Team Members
 
