@@ -9,6 +9,10 @@ title = 'M3TFluiDLab Publications'
 - **Mortazavian, J. and Goudarzi, N.**, 2024, September. Multi-Fidelity Machine Learning Analysis of Wind Patterns Around High-Rise Buildings. In ASME Power Conference (Vol. 88186, p. V001T06A008). American Society of Mechanical Engineers.
 
 
+
+
+
+
 - **Najian, M., Sharma, S., & Goudarzi, N.** (2024, September). Effect of Non-Isothermal Conditions on Wind Patterns Near Isolated High-Rise Buildings. In ASME Power Conference (Vol. 88186, p. V001T06A009). American Society of Mechanical Engineers.
 
 
