@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/</loc>
+    <loc>https://github.com/ItisAriya/M3TFluiD_Lab/</loc>
     <lastmod>2025-03-24T14:46:50-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://github.com/ItisAriya/M3TFluiD_Lab/publications/</loc>
     <lastmod>2025-03-24T14:46:50-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/test/</loc>
+    <loc>https://github.com/ItisAriya/M3TFluiD_Lab/members/</loc>
     <lastmod>2025-03-24T14:46:50-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://github.com/ItisAriya/M3TFluiD_Lab/posts/</loc>
+    <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://github.com/ItisAriya/M3TFluiD_Lab/categories/</loc>
+  </url><url>
+    <loc>https://github.com/ItisAriya/M3TFluiD_Lab/tags/</loc>
   </url>
 </urlset>
