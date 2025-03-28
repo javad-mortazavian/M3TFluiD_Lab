@@ -6,4 +6,4 @@ title = 'True'
 
 ### This is the section two of the website. 
 
-Test content.
+This is a summary of works which have been done. 
